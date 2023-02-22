@@ -1,8 +1,8 @@
-# Hi 👋, I'm Rajitha Priyankara
+#                                                              Hi 👋, I'm Rajitha Priyankara
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Frontend Developer from Sri Lanka
+##                                                          Frontend Developer from Sri Lanka
 
 In the project directory, you can run:
 
