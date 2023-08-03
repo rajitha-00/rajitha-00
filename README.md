@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Rajitha</a></h1>
+  <p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=rajitha-00&color=brightgreen" alt="watching_count" />
+   </p>
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-23-blue" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+</p>
 <h3 align="center">A passionate Web, Mobile App & Genarative AI developer from Sri Lanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
