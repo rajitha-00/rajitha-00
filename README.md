@@ -16,7 +16,9 @@ Rajitha</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">HCLTech Sri Lanka</a>
+- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Expernetic Sri Lanka</a> as Assosciate Software Engineer
+
+- 🔭 I have worked in <a href="https://phoenix.tech/griffyn/" target="blank">HCLTech Sri Lanka</a> for 2 years
 
 - 🌱 I’m currently Working on Mobile App(React-Native), Web Appications(React.js, Next.js, Vue.js, Node.js, Python)
 
